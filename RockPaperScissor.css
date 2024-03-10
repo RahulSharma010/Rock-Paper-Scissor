@@ -97,7 +97,7 @@ img{
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: 65px;
+        margin-top: 80px;
         margin-bottom: 40px;
         gap: 2rem;
     }
@@ -120,7 +120,7 @@ img{
     #msg{
         background-color: #0A1F0D;
         color: #fff;
-        font-size: 1.3rem;
+        font-size: 1.1rem;
         display: inline;
         padding: 1rem;
         border-radius: 1rem;
