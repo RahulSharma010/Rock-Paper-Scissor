@@ -5,7 +5,7 @@ const choices = document.querySelectorAll(".choice");
 const msg = document.querySelector("#msg");
 const userPoints = document.querySelector("#user-score");
 const compPoints = document.querySelector("#comp-score");
-
+ 
 const genCompChoice = () => {
     // rock, paper, scissor
     const options = ["rock","paper","scissor"];
